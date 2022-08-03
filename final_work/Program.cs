@@ -1,6 +1,6 @@
-﻿string[] ArrayLess3Elements (string[] array)
+﻿string[] ArrayLess3 (string[] array)
 {
-    string[] NewArray = new string[10];
+    string[] NewArray = new string[array.Length];
     
     for(int i = 0; i < array.Length; i++)
     {
@@ -25,12 +25,21 @@ void ShowStringArray(string[] array)
 Console.Write("Input size of array: ");
 int size = Convert.ToInt32(Console.ReadLine());
 
-string[] MyArray = new string[size];
+string[] MainArray = new string[size];
 
 Console.WriteLine("Input elements of array: ");
 for(int i = 0; i < size; i++)
 {
-    MyArray[i] = Console.ReadLine();
+    MainArray[i] = Console.ReadLine();
 }
 
-ShowStringArray(MyArray);
+Console.WriteLine();
+
+Console.Write("Main array - ");
+ShowStringArray(MainArray);
+
+Console.WriteLine();
+
+string[] NewArray = ArrayLess3(MainArray);
+Console.Write("New array - ");
+ShowStringArray(NewArray);
