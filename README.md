@@ -10,17 +10,18 @@
 string[] ArrayLess3 (string[] array)
 {
     string[] NewArray = new string[array.Length];
-    
+    int k = 0;
+
     for(int i = 0; i < array.Length; i++)
     {
         if(array[i].Length <= 3) 
         {
-            NewArray[i] = array[i];
+            NewArray[k] = array[i];
+            k++;
         }
     }
-
+    
     return NewArray;
-
 }
 ```
 
@@ -56,6 +57,19 @@ ShowStringArray(MainArray);
 Console.WriteLine();
 
 string[] NewArray = ArrayLess3(MainArray);
-Console.Write("New array - ");
-ShowStringArray(NewArray);
+
+for(int i = 0; i < NewArray.Length; i++)
+{
+    if(NewArray[0] == null)
+    {
+        Console.Write("New array - Empty array!");
+        break;
+    }
+    else 
+    {
+        Console.Write("New array - ");
+        ShowStringArray(NewArray);
+        break;
+    }
+}
 ```

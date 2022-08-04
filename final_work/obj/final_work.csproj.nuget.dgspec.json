@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\контроль\\final_work\\final_work.csproj": {}
+    "C:\\Users\\User\\Desktop\\final work\\Final_work\\final_work\\final_work.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\контроль\\final_work\\final_work.csproj": {
+    "C:\\Users\\User\\Desktop\\final work\\Final_work\\final_work\\final_work.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\контроль\\final_work\\final_work.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\final work\\Final_work\\final_work\\final_work.csproj",
         "projectName": "final_work",
-        "projectPath": "C:\\Users\\User\\Desktop\\контроль\\final_work\\final_work.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\final work\\Final_work\\final_work\\final_work.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\контроль\\final_work\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\final work\\Final_work\\final_work\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

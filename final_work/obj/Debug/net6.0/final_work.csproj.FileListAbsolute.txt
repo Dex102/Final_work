@@ -13,3 +13,18 @@ C:\Users\User\Desktop\контроль\final_work\obj\Debug\net6.0\refint\final_
 C:\Users\User\Desktop\контроль\final_work\obj\Debug\net6.0\final_work.pdb
 C:\Users\User\Desktop\контроль\final_work\obj\Debug\net6.0\final_work.genruntimeconfig.cache
 C:\Users\User\Desktop\контроль\final_work\obj\Debug\net6.0\ref\final_work.dll
+C:\Users\User\Desktop\final work\Final_work\final_work\bin\Debug\net6.0\final_work.exe
+C:\Users\User\Desktop\final work\Final_work\final_work\bin\Debug\net6.0\final_work.deps.json
+C:\Users\User\Desktop\final work\Final_work\final_work\bin\Debug\net6.0\final_work.runtimeconfig.json
+C:\Users\User\Desktop\final work\Final_work\final_work\bin\Debug\net6.0\final_work.dll
+C:\Users\User\Desktop\final work\Final_work\final_work\bin\Debug\net6.0\final_work.pdb
+C:\Users\User\Desktop\final work\Final_work\final_work\obj\Debug\net6.0\final_work.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\final work\Final_work\final_work\obj\Debug\net6.0\final_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\final work\Final_work\final_work\obj\Debug\net6.0\final_work.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\final work\Final_work\final_work\obj\Debug\net6.0\final_work.AssemblyInfo.cs
+C:\Users\User\Desktop\final work\Final_work\final_work\obj\Debug\net6.0\final_work.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\final work\Final_work\final_work\obj\Debug\net6.0\final_work.dll
+C:\Users\User\Desktop\final work\Final_work\final_work\obj\Debug\net6.0\refint\final_work.dll
+C:\Users\User\Desktop\final work\Final_work\final_work\obj\Debug\net6.0\final_work.pdb
+C:\Users\User\Desktop\final work\Final_work\final_work\obj\Debug\net6.0\final_work.genruntimeconfig.cache
+C:\Users\User\Desktop\final work\Final_work\final_work\obj\Debug\net6.0\ref\final_work.dll
